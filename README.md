@@ -1,4 +1,4 @@
-# 🏡 California Housing Price Prediction API
+# 🏡 California Housing Price Prediction API  
 
 A production-ready Machine Learning REST API built with **FastAPI**, **Scikit-Learn**, and **Pandas** that serves a trained Random Forest Regression model to predict California median home values.
 
